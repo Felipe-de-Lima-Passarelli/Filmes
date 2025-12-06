@@ -48,6 +48,7 @@ Bem-vindo ao projeto **Listagem de Filmes**, um catálogo interativo que consome
 /Filmes
 └───newPages/
 │   LICENSE
+│   README.md
 │   index.html
 │   index.js
 │   style.css
